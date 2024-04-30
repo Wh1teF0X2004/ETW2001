@@ -10,4 +10,4 @@
 ## Section B
 - Business Application (30 Marks)
 - This section provides a link to a YouTube video that delves into a business case study. After viewing the video, please respond to the associated questions to demonstrate your understanding of the case study
-- https://youtu.be/Sq4-sAHIqJg?feature=shared
+- [YouTube Link](https://youtu.be/Sq4-sAHIqJg?feature=shared)
