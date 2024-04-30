@@ -1,6 +1,6 @@
 # ETW2001 - FOUNDATIONS OF DATA ANALYSIS
-Class 2024 Semester 1
-Assessment 1 (30%)
+- Class 2024 Semester 1
+- Assessment 1 (30%)
 
 ## Section A
 - Practical Coding Tasks (30 Marks)
